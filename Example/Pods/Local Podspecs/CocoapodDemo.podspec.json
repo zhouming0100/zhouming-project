@@ -1,0 +1,22 @@
+{
+  "name": "CocoapodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of CocoapodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhou_ming1218@163.com/CocoapodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhou_ming1218@163.com": "zhouming1218@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zhou_ming1218@163.com/CocoapodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoapodDemo/Classes/**/*"
+}
