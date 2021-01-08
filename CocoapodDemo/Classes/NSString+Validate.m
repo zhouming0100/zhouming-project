@@ -3,7 +3,7 @@
 //  OYOConsumer
 //
 //  Created by heyahui on 2018/8/6.
-//  Copyright © 2018年 www.oyohotels.cn. All rights reserved.
+//  Copyright © 2018年 www.hotels.cn. All rights reserved.
 //
 
 #import "NSString+Validate.h"
